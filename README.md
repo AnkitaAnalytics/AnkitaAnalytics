@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ankita
+- 👀 I’m interested in Machine Learning and AI
+- 🌱 I’m currently learning Algorithms, LLM, Prompt Engineering and NLP
+- 💞️ I’m looking to collaborate on prompt engineering, Machine learning projects
+- 📫 How to reach me- ankitaverma115@gmail.com
